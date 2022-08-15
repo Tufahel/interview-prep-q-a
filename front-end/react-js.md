@@ -1,7 +1,5 @@
-#### Q & A
-
-** Differentiate between Virtual DOM and Real DOM. **
-> 
+#### Differentiate between Virtual DOM and Real DOM.
+> Difference
   - Virual Dom
     - Changes can be made easily
     - Minimal memory wastage
@@ -15,22 +13,17 @@
     - Able to directly manipulate html
     - Slow updates 
 
-** What is React? **
+#### What is React?
 > React
     - React is a widely used JavaScript library that was launched in 2011 by the developers of Facebook. It is primarily used as frontend development.
     - React uses component-based approach which ensures to help users to build compenents that process high reusability.
     - React is well for developing and desining complex mobile user interfaces and web applications.
 
-** What is the meaning of Virtual DOM? **
+#### What is the meaning of Virtual DOM?
 > Virtual DOM
     - Virtual DOM is a simple JavaScript object that is the exact copy of the corresponding real DOM.
     - It can be cosidered as node tree that cosists of elements, their attributes and other properties.
     - Using the render function in React, it creates a node tree and updates it based on the changes that occur the data model.
     - These changes are usually triggered by the users or the actions caused by the system.
 
-**  **
-**  **
-**  **
-**  **
-**  **
-**  **
+####
