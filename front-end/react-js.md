@@ -1,17 +1,17 @@
 #### Differentiate between Virtual DOM and Real DOM.
 > Difference
-  - Virual Dom
-    - Changes can be made easily
-    - Minimal memory wastage
-    - JSX element is updated if the element exists
-    - Cannot update HTML directly
-    - Faster updates
+  - Virual DOM
+    - Changes can be made easily.
+    - Minimal memory wastage.
+    - JSX element is updated if the element exists.
+    - Cannot update HTML directly.
+    - Faster updates.
   - Real DOM
     - Changes can be expensive.
-    - High demand for memory and more wastage
-    - Create a new DOM everytime an element gets updated
-    - Able to directly manipulate html
-    - Slow updates 
+    - High demand for memory and more wastage.
+    - Create a new DOM everytime an element gets updated.
+    - Able to directly manipulate html.
+    - Slow updates.
 
 #### What is React?
 > React
@@ -26,4 +26,8 @@
   - Using the render function in React, it creates a node tree and updates it based on the changes that occur the data model.
   - These changes are usually triggered by the users or the actions caused by the system.
 
-####
+#### What are the some of the important features of React?
+> Important feature
+  - React makes use of single directional data flow model.
+  - It deals with complete server-side data processing and handling.
+  - React uses virtual DOM that has many advantages of its own.
