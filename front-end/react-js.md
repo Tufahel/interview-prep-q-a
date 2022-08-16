@@ -36,17 +36,20 @@
 > JSX
   - JSX is the abbreviation of JavaScript XML. It is a file that is used in React to bring out the essence of JavaScript in React and use for its advantages.
   - It even includes bringing out HTML and the easy syntac of JavaScript. This ensures HTML file will have high readabilty with higher performance.
-  - Example - `render(){
-                        return(
-                          <div>
-                            <h1>Hi, I am Tufahel</h1>
-                          </div>
-                          );  
-                        }`
+  - Example :
+    -           render(){
+    -                      return(
+    -                        <div>
+    -                         <h1>Hi, I am Tufahel</h1>
+    -                       </div>
+    -                       );  
+    -                     }
 
-#### 
-> 
-  - 
+#### Can browsers read a JSX file?
+> Can't read
+  - No, a browser can't read JSX file directly.
+  - Browser can only read the objects given by JavaScript.
+  - Now, to make a browser read the JSX file, it needs to be transformed to a JavaScript object using JSX transformers. Only then it can be fed into the browser for further use in the pipeline
 
 #### 
 > 
