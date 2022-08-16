@@ -51,10 +51,17 @@
   - Browser can only read the objects given by JavaScript.
   - Now, to make a browser read the JSX file, it needs to be transformed to a JavaScript object using JSX transformers. Only then it can be fed into the browser for further use in the pipeline
 
-#### 
-> 
-  - 
+#### Why is React widely used today / advantages?
+> React provides users with ample number of advantages. Some of them are:
+  - With react, UI testing becomes very easy.
+  - React can integrate with Angular and other framework easily.
+  - The high readability index esures easy understanding.
+  - React can be used for both client-side and server-side requirements.
+  - It boosts application performance and overall efficiency.
 
-#### 
-> 
-  - 
+#### Are there any disadvantages to using React / limitations?
+> Some limitations are:
+  - Writing code is complex as it uses JSX and inline template formatting.
+  - Beginners might find it tough to cope with its sytaxes and methods.
+  - The library consists a huge repository of information, which might be overwhelming.
+  - React is simple library not a complete framework hence calls for dependencies.
