@@ -31,3 +31,27 @@
   - React makes use of single directional data flow model.
   - It deals with complete server-side data processing and handling.
   - React uses virtual DOM that has many advantages of its own.
+
+#### What is the meaning of JSX?
+> JSX
+  - JSX is the abbreviation of JavaScript XML. It is a file that is used in React to bring out the essence of JavaScript in React and use for its advantages.
+  - It even includes bringing out HTML and the easy syntac of JavaScript. This ensures HTML file will have high readabilty with higher performance.
+  - Example - `render(){
+                        return(
+                          <div>
+                            <h1>Hi, I am Tufahel</h1>
+                          </div>
+                          );  
+                        }`
+
+#### 
+> 
+  - 
+
+#### 
+> 
+  - 
+
+#### 
+> 
+  - 
