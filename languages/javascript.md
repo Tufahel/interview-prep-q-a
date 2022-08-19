@@ -9,7 +9,15 @@
   - Java is a complete programming language whereas JavaScript is coded program that can be introduced to HTML pages.
   - Java is an object oriented or structured programming language like c, c++ whereas JavaScript is a client-side scripting language.
 
-#### What are the Data Types Supported by JavaScript?
+#### What are the data types supported by JavaScript?
 > There are 2 different kind of data in JavaScript.
   - 1. Primitive types: A primitive is simply a data type that is not an object and has no methods. 6 primitive types in JavaScript are: `Undefined`, `Null`, `Boolean`, `String`, `Symbol` and `Number`.
   - 2. Objects
+
+#### What are the features fo JavaScript?
+> Features
+  - It is a lightweight, interpreted programming language.
+  - It is designed for creating network centric applications.
+  - It is complementary to and integrated with Java.
+  - It is complementary to and integrated with HTML.
+  - JavaScript is open an cross-platform.
