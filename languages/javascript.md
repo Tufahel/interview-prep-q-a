@@ -11,10 +11,10 @@
 
 #### What are the data types supported by JavaScript?
 > There are 2 different kind of data in JavaScript.
-  - 1. Primitive types: A primitive is simply a data type that is not an object and has no methods. 6 primitive types in JavaScript are: `Undefined`, `Null`, `Boolean`, `String`, `Symbol` and `Number`.
-  - 2. Objects
+  1. Primitive types: A primitive is simply a data type that is not an object and has no methods. 6 primitive types in JavaScript are: `Undefined`, `Null`, `Boolean`, `String`, `Symbol` and `Number`.
+  2. Objects
 
-#### What are the features fo JavaScript?
+#### What are the features of JavaScript?
 > Features
   - It is a lightweight, interpreted programming language.
   - It is designed for creating network centric applications.
@@ -23,7 +23,7 @@
   - JavaScript is open an cross-platform.
 
 #### Is JavaScript a case-sensitive language?
-> Yes, JavaScript is a case sensitive language. The language keywords, variables, function names, and any other identifiers must alwasy be typed with a consistent capitalization of letters.
+> Yes, JavaScript is a case sensitive language. The language keywords, variables, function names, and any other identifiers must always be typed with a consistent capitalization of letters.
 
 #### What are the advantages of JavaScript?
 > Advantages:
