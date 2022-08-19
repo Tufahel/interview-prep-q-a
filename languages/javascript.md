@@ -24,3 +24,10 @@
 
 #### Is JavaScript a case-sensitive language?
 > Yes, JavaScript is a case sensitive language. The language keywords, variables, function names, and any other identifiers must alwasy be typed with a consistent capitalization of letters.
+
+#### What are the advantages of JavaScript?
+> Advantages:
+  - Less Server Interaction: We can always validate user input before sending of to the server, this saves server traffic that means less loads on our server.
+  - Immediate feedback to the visitors: Visitors don't have to wait for page reload to see if they forgotten to enter something. There is always an immediate feedback.
+  - Increased interactivity: We can always create interfaces that react on the user hovers over them with the mouse and activate them via the keyboard.
+  - Richer interfaces: Drag and drop components and sliders can be added by JavaScript for richer interfaces to the visitors.
