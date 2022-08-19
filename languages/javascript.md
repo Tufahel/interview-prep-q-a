@@ -21,3 +21,6 @@
   - It is complementary to and integrated with Java.
   - It is complementary to and integrated with HTML.
   - JavaScript is open an cross-platform.
+
+#### Is JavaScript a case-sensitive language?
+> Yes, JavaScript is a case sensitive language. The language keywords, variables, function names, and any other identifiers must alwasy be typed with a consistent capitalization of letters.
