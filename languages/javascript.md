@@ -31,3 +31,8 @@
   - Immediate feedback to the visitors: Visitors don't have to wait for page reload to see if they forgotten to enter something. There is always an immediate feedback.
   - Increased interactivity: We can always create interfaces that react on the user hovers over them with the mouse and activate them via the keyboard.
   - Richer interfaces: Drag and drop components and sliders can be added by JavaScript for richer interfaces to the visitors.
+
+#### How can you create an object in JavaScript?
+> Object creation:
+  - JavaScript supports Object concept very well.
+    - ` var emp = { name: "Daniel", age: 23 }; `
