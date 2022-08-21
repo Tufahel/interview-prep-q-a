@@ -36,3 +36,24 @@
 > Object creation:
   - JavaScript supports Object concept very well.
     - ` var emp = { name: "Daniel", age: 23 }; `
+
+#### How can you create an Array in JavaScript?
+> Array creation:
+  - Array can be defined using the array literals in the following way:
+    - ` var x = []; var y = [1, 2, 3, 4]; `
+
+#### What is a `name` function in JavaScript & how to define it?
+> A named function has a name when it is defined. It can be defined using function keyword as:
+  - ` function named(){}; `
+
+#### Can you assign an anonymous function to a variable and pass it as an argument to another function?
+> Yes! An anonymous function can be assigned to a variable and also pass it as an argument to another function.
+
+#### What is argument objects in JavaScript and how to get the type of arguments passed to a function?
+> JavaScript variable arguments are the arguments passed to a function.
+  - ` function func(x){ `
+    -   `console.log(typeof x, arguments.length);`
+  -   `}`
+  -   `func();   // ==> "undefined", 0`
+  -  ` func(1);  // ==> "number", 1`
+  -   `func("1", "2", "3"); // ==> "string", 3 `
