@@ -57,3 +57,8 @@
   -   `func();   // ==> "undefined", 0`
   -  ` func(1);  // ==> "number", 1`
   -   `func("1", "2", "3"); // ==> "string", 3 `
+
+#### What are the scopes of a variable in JavaScript?
+> The scope of a variable is the region of your program in which it is defined. JavaScript variable will have only two scopes.
+  - Global Variable- It is visible everywhere in your JavaScript code.
+  - Local Variable - It will be visible only within a function where it is defined.
