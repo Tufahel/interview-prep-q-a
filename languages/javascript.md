@@ -62,3 +62,12 @@
 > The scope of a variable is the region of your program in which it is defined. JavaScript variable will have only two scopes.
   - Global Variable- It is visible everywhere in your JavaScript code.
   - Local Variable - It will be visible only within a function where it is defined.
+
+#### What is the purpose of `this` operator in JavaScript?
+> In JavaScript, the `this` keyword refers to an object. Which object depends on how `this` is being invoked(used or called). The `this` keyword refers to different objects depending on how it is used:
+  - In an object method, `this` refers to the object.
+  - Alone, `this` refers to the global object.
+  - In a function, `this` refers to the global object.
+  - In a function, in strict mode, `this` is `undefined`.
+  - In an event, `this` refers to the element that recieved the event.
+  - Methods like `call()`, `apply()`, and `bind()` can refer `this` to any object.
