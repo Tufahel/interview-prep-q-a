@@ -22,6 +22,7 @@
 #### What is the meaning of Virtual DOM?
 > Virtual DOM
   - Virtual DOM is a simple JavaScript object that is the exact copy of the corresponding real DOM.
+  - A representation of the DOM stored in memory and used to track changes to update the real DOM only as needed.
   - It can be cosidered as node tree that cosists of elements, their attributes and other properties.
   - Using the render function in React, it creates a node tree and updates it based on the changes that occur the data model.
   - These changes are usually triggered by the users or the actions caused by the system.
